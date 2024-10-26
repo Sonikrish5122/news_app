@@ -12,7 +12,7 @@ Using News Api https://newsapi.org/
 Screenshots
 
 
-<img src="https://github.com/user-attachments/assets/d61262f1-1440-448e-bd82-583f2402b2d3" width="200">
+<img src="https://github.com/user-attachments/assets/d61262f1-1440-448e-bd82-583f2402b2d3" width="200" padding="20">
 <img src="https://github.com/user-attachments/assets/4f07bc95-1111-4bfd-8d26-5ec90d475416" width="200">
 <img src="https://github.com/user-attachments/assets/4c165ad1-155e-442f-952a-a834cdfaa9ba" width="200">
 <img src="https://github.com/user-attachments/assets/6184d8a8-90be-43b9-bb8d-bc329024717f" width="200">
